@@ -1,4 +1,5 @@
-const apiBase = "/api";
+const apiBase = "https://smart-recipe-ty40.onrender.com/api";
+
 const resultsEl = document.getElementById("results");
 const favEl = document.getElementById("favorites");
 const cuisineFilter = document.getElementById("cuisineFilter");
